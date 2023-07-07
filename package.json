@@ -1,7 +1,6 @@
 {
   "name": "react-segundo-projeto",
   "version": "0.1.0",
-  "homepage": "github-page/",
   "private": true,
   "scripts": {
     "dev": "next dev",
