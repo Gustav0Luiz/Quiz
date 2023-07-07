@@ -1,3 +1,3 @@
 # Meu Primeiro Quiz 
 
-Meu primeiro exercício utilizando o ReactJs.
+Meu primeiro exercício utilizando o ReactJs.g
